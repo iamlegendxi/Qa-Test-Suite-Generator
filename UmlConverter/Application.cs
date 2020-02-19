@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace UmlConverter
 {
-    public partial class Form1 : Form
+    public partial class UmlConverter : Form
     {
-        public Form1()
+        public UmlConverter()
         {
             InitializeComponent();
         }

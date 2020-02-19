@@ -1,2 +1,2 @@
-# QaUmlConverter
-Converts SVG files containing UML to test suites for Cucumber
+# Qa Test Suite Generator
+Creates feature files for Cucumber tests
